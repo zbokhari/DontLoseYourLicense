@@ -16,7 +16,6 @@ import Profile from './components/userProfile/profile';
 import LogInForm from './components/login/login';
 import Why from './components/signUp/newSignUp.js';
 import Forum from './components/forum/forum';
-// import Fourm from './components/fourm/fourm';
 
 
 class App extends Component {
