@@ -27,7 +27,7 @@ Misc: Mailchimp, Bcrypt, JSON, RESTful APIs
  1. oAuth 2.0 authentication
 
  ## Solution
- 1. Researched and read documentation to understand oAuth integration. Each social site has a different way of implementing oAuth, finding information specifically for Googlw was crucial. Advised future developers to make sure redirect URIs and callback URIs use HTTPS.
+ 1. Researched and read documentation to understand oAuth integration. Each social site has a different way of implementing oAuth, finding information specifically for Google was crucial. Advised future developers to make sure redirect URIs and callback URIs use HTTPS.
 
  ______________________________________________________________
 
